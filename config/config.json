@@ -1,0 +1,16 @@
+{
+  "ServerConfig": {
+    "Address": "0.0.0.0:8080",
+    "ReadTimeout": 10,
+    "WriteTimeout": 600,
+    "Static": "C:\\gaonl\\study\\golang\\goweb\\src\\public",
+    "TemplateBase": "C:\\gaonl\\study\\golang\\goweb\\src\\templates",
+    "Version": "0.1"
+  },
+  "DbConfig": {
+    "UserName": "root",
+    "Password": "root123!@#",
+    "IP": "192.168.3.99:3306",
+    "DbName": "chat"
+  }
+}
